@@ -208,6 +208,10 @@ padding-bottom: 24px; */
       rgba(46, 47, 66, 0.7)
     ),
     url(/images/work_table.jpg);
+    /* max-width: 1440px; */
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: cover; 
 }
 
 .hero_title {
