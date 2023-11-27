@@ -539,7 +539,7 @@ padding-bottom: 24px; */
 
 .bottom{
   margin-left: 156px;
-  
+  margin-right: 120px;
 }
 
 .footer-container{
@@ -582,7 +582,7 @@ padding-bottom: 24px; */
     box-sizing: border-box;
     width: 208px;
     color: rgb(67, 68, 85);
-    margin-left: 120px;
+    /* margin-left: 120px; */
     
    
 }
