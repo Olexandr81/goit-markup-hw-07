@@ -542,6 +542,13 @@ padding-bottom: 24px; */
   
 }
 
+.footer-container{
+  display: flex;
+  align-items: baseline;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .logo-container {
   display: inline-block;
   margin-bottom: 16px;
