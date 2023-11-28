@@ -538,15 +538,15 @@ padding-bottom: 24px; */
 }
 
 .bottom{
-  margin-left: 156px;
-  
+ 
+  margin-right: 120px;
 }
 
 .footer-container{
   display: flex;
   align-items: baseline;
   margin-left: 0;
-  margin-right: 120px;
+  margin-right: 0;
 }
 
 .logo-container {
