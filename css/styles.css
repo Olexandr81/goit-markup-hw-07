@@ -33,6 +33,7 @@ body {
 
 .link {
   text-decoration: none;
+  
 }
 
 .list-item {
@@ -54,7 +55,7 @@ body {
 }
 
 .container {
-  max-width: 1158px;
+  width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -156,6 +157,11 @@ padding-bottom: 24px; */
   color: #404bbf;
 }
 
+.color{
+
+  color: #2e2f42;;  
+}
+
 .adress-company {
   font-style: normal;
   color: #434455;
@@ -214,6 +220,7 @@ padding-bottom: 24px; */
     background-position: center; 
     background-size: cover; 
     max-width: 1440px;
+    margin: 0 auto;
 }
 
 .hero_title {
@@ -545,8 +552,8 @@ padding-bottom: 24px; */
 .footer-container{
   display: flex;
   align-items: baseline;
-  margin-left: 0;
-  margin-right: 0;
+  /* margin-left: 0;
+  margin-right: 0; */
 }
 
 .logo-container {
@@ -576,14 +583,14 @@ padding-bottom: 24px; */
   max-width: 264px;
 }
 .futer-social{
-    font-family: "Roboto", sans-serif;
+    /* font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     box-sizing: border-box;
-    width: 208px;
-    color: rgb(67, 68, 85);
-    /* margin-left: 120px; */
-    
+    /* width: 208px; */
+    /* color: rgb(67, 68, 85);
+    margin-left: 120px; */
+     */
    
 }
 
